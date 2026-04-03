@@ -19,7 +19,7 @@ This project demonstrates a robust and interactive implementation of file handli
 
 The application is designed with a modular and user-friendly approach, making it suitable for beginners learning file handling concepts as well as developers looking for a clean implementation of Java I/O operations.
 
-🚀** Key Features:**
+🚀**Key Features:** 
 
 **1. Directory Management**
 
@@ -69,3 +69,9 @@ The application supports multi-line input for writing operations, improving usab
 * Beginner-friendly project for learning Java file handling
 * Base template for building CLI-based utilities
 * Useful for text processing and file management tools
+
+  **Output: **
+  
+<img width="1255" height="734" alt="Screenshot 2026-04-03 121355" src="https://github.com/user-attachments/assets/20748d7b-08a8-49f3-a073-5b516bbc8c93" />
+
+<img width="445" height="368" alt="Screenshot 2026-04-03 121516" src="https://github.com/user-attachments/assets/a474de30-ad3d-45bc-9e49-c6c66803fffe" />
