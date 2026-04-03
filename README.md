@@ -1,11 +1,17 @@
 # File_Handling_Utility
 
 Company: CODTECH IT SOLUTIONS
+
 Name: Akash Kumar
+
 Intern ID : CTIS7110
+
 Domain: Java Programming
+
 Duration: 4 Weeks
+
 Mentor: Neela Santosh
+
 
 **Project Description:**
 This project demonstrates a robust and interactive implementation of file handling operations in Java using the modern java.nio package. It provides a menu-driven console application that allows users to perform essential file operations such as reading, writing, appending, modifying, and managing text files efficiently.
